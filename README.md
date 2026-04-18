@@ -21,7 +21,9 @@
 
 ## 下载安装
 
-前往 [Releases](../../releases) 页面下载最新版本 APK。
+### 前往 [Releases](../../releases) 页面下载最新版本 APK。
+#### Android 5（API 21/22）旧电视兼容版本请前往 [v0.2.8-legacy21](https://github.com/dh374374/ChaiChaiEmbyTV/releases/tag/v0.2.8-legacy21) 下载。
+
 
 | 架构 | 说明 |
 |------|------|
@@ -45,7 +47,8 @@
 ## 致谢
 
 - [Emby](https://emby.media/) - 媒体服务器
+- [media](https://github.com/androidx/media) - media播放器
 - [AkDanmaku](https://github.com/KwaiAppTeam/AkDanmaku) - 弹幕渲染引擎
-- [misaka_danmu_server](https://github.com/l429609201/misaka_danmu_server) 、 [danmu_api](https://github.com/huangxd-/danmu_api) - 弹幕api服务
+- [danmu_api](https://github.com/huangxd-/danmu_api) 、[misaka_danmu_server](https://github.com/l429609201/misaka_danmu_server)- 弹幕api服务
 - [Jellyfin Media3](https://github.com/jellyfin/jellyfin-androidx-media) - FFmpeg 解码器扩展
 - [LINUX.DO论坛](https://linux.do/) - 这里的人都是靓仔，说话又好听
